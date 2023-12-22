@@ -1,0 +1,4 @@
+#Fri Dec 22 11:48:40 EAT 2023
+base.0=C\:\\Users\\mengi\\Desktop\\school-works and projects\\AI - year 4\\prog-for-AI\\flutter\\objectdetectionapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
