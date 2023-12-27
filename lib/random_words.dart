@@ -85,7 +85,7 @@ class _RandomWordsState extends State<RandomWords> {
             ),
           ),
           actions: <Widget>[
-            IconButton(icon: Icon(Icons.list), onPressed: _pushSaved)
+            IconButton(icon: const Icon(Icons.list), onPressed: _pushSaved)
           ],
         ),
         // body: Center(
