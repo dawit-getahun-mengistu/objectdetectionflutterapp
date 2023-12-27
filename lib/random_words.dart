@@ -66,7 +66,7 @@ class _RandomWordsState extends State<RandomWords> {
       return Scaffold(
           appBar: AppBar(
             title: const Center(
-              child: Text('Saved WordPairs'),
+              child: Text('Saved  WordPairs'),
             ),
           ),
           body: ListView(
